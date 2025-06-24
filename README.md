@@ -16,20 +16,20 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 ## 🗂️ Challenge Index
 
 ### 2021
-- [ITU-ML5G-PS-016 Location estimation using RSSI of wireless LAN](2021/ITU-ML5G-PS-016%20Location%20estimation%20using%20RSSI%20of%20wireless%20LAN/Readme.md)
-- [ITU-ML5G-PS-015 Network failure detection and root cause analysis in 5GC by NFV-based test environment](2021/ITU-ML5G-PS-015%20Network%20failure%20detection%20and%20root%20cause%20analysis%20in%205GC%20by%20NFV-based%20test%20environment/Readme.md)
-- [ITU-ML5G-PS-014 Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis](2021/ITU-ML5G-PS-014%20Build-a-thon(PoC)%20Network%20resource%20allocation%20for%20emergency%20management%20based%20on%20closed%20loop%20analysis/Readme.md)
+- [ITU-ML5G-PS-016 Location estimation using RSSI of wireless LAN](2021/ITU-ML5G-PS-016%20Location%20estimation%20using%20RSSI%20of%20wireless%20LAN/README.md)
+- [ITU-ML5G-PS-015 Network failure detection and root cause analysis in 5GC by NFV-based test environment](2021/ITU-ML5G-PS-015%20Network%20failure%20detection%20and%20root%20cause%20analysis%20in%205GC%20by%20NFV-based%20test%20environment/README.md)
+- [ITU-ML5G-PS-014 Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis](2021/ITU-ML5G-PS-014%20Build-a-thon(PoC)%20Network%20resource%20allocation%20for%20emergency%20management%20based%20on%20closed%20loop%20analysis/README.md)
 - [ITU-ML5G-PS-012 Radio Link Failure Prediction](2021/ITU-ML5G-PS-012%20Radio%20Link%20Failure%20Prediction/Readme.md)
-- [ITU-ML5G-PS-011 Combinatorial Optimization Challenge- Delivery route optimization](2021/ITU-ML5G-PS-011%20Combinatorial%20Optimization%20Challenge-%20Delivery%20route%20optimization/Readme.md)
-- [ITU-ML5G-PS-010 Forecasting Model for Service Allocation Network Using Traffic Recognition - Copy](2021/ITU-ML5G-PS-010%20Forecasting%20Model%20for%20Service%20Allocation%20Network%20Using%20Traffic%20Recognition%20-%20Copy/Readme.md)
-- [ITU-ML5G-PS-009 RF-Sensor Based Human Activity Recognition](2021/ITU-ML5G-PS-009%20RF-Sensor%20Based%20Human%20Activity%20Recognition/Readme.md)
-- [ITU-ML5G-PS-008 ML5G-PHY-Localization Multidevice localization with mmWave signals in a factory environment](2021/ITU-ML5G-PS-008%20ML5G-PHY-Localization%20Multidevice%20localization%20with%20mmWave%20signals%20in%20a%20factory%20environment/Readme.md)
-- [ITU-ML5G-PS-007 Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks](2021/ITU-ML5G-PS-007%20Lightning-Fast%20Modulation%20Classification%20with%20Hardware-Efficient%20Neural%20Networks/Readme.md)
-- [ITU-ML5G-PS-006 ML5G-PHY-Reinforcement learning scheduling and resource allocation](2021/ITU-ML5G-PS-006%20ML5G-PHY-Reinforcement%20learning%20scheduling%20and%20resource%20allocation/Readme.md)
-- [ITU-ML5G-PS-005 Network anomaly detection based on logs](2021/ITU-ML5G-PS-005%20Network%20anomaly%20detection%20based%20on%20logs/Readme.md)
-- [ITU-ML5G-PS-004 Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario](2021/ITU-ML5G-PS-004%20Federated%20Learning%20for%20Spatial%20Reuse%20in%20a%20multi-BSS%20(Basic%20Service%20Set)%20scenario/Readme.md)
-- [ITU-ML5G-PS-002 WALDO (Wireless Artificial intelligence Location DetectiOn) sensing using mmWave communications and ML](2021/ITU-ML5G-PS-002%20WALDO%20(Wireless%20Artificial%20intelligence%20Location%20DetectiOn)%20sensing%20using%20mmWave%20communications%20and%20ML/Readme.md)
-- [ITU-ML5G-PS-001 Graph Neural Networking Challenge 2021 - Creating a Scalable Network Digital Twin](2021/ITU-ML5G-PS-001%20Graph%20Neural%20Networking%20Challenge%202021%20-%20Creating%20a%20Scalable%20Network%20Digital%20Twin/Readme.md)
+- [ITU-ML5G-PS-011 Combinatorial Optimization Challenge- Delivery route optimization](2021/ITU-ML5G-PS-011%20Combinatorial%20Optimization%20Challenge-%20Delivery%20route%20optimization/README.md)
+- [ITU-ML5G-PS-010 Forecasting Model for Service Allocation Network Using Traffic Recognition - Copy](2021/ITU-ML5G-PS-010%20Forecasting%20Model%20for%20Service%20Allocation%20Network%20Using%20Traffic%20Recognition%20-%20Copy/README.md)
+- [ITU-ML5G-PS-009 RF-Sensor Based Human Activity Recognition](2021/ITU-ML5G-PS-009%20RF-Sensor%20Based%20Human%20Activity%20Recognition/README.md)
+- [ITU-ML5G-PS-008 ML5G-PHY-Localization Multidevice localization with mmWave signals in a factory environment](2021/ITU-ML5G-PS-008%20ML5G-PHY-Localization%20Multidevice%20localization%20with%20mmWave%20signals%20in%20a%20factory%20environment/README.md)
+- [ITU-ML5G-PS-007 Lightning-Fast Modulation Classification with Hardware-Efficient Neural Networks](2021/ITU-ML5G-PS-007%20Lightning-Fast%20Modulation%20Classification%20with%20Hardware-Efficient%20Neural%20Networks/README.md)
+- [ITU-ML5G-PS-006 ML5G-PHY-Reinforcement learning scheduling and resource allocation](2021/ITU-ML5G-PS-006%20ML5G-PHY-Reinforcement%20learning%20scheduling%20and%20resource%20allocation/README.md)
+- [ITU-ML5G-PS-005 Network anomaly detection based on logs](2021/ITU-ML5G-PS-005%20Network%20anomaly%20detection%20based%20on%20logs/README.md)
+- [ITU-ML5G-PS-004 Federated Learning for Spatial Reuse in a multi-BSS (Basic Service Set) scenario](2021/ITU-ML5G-PS-004%20Federated%20Learning%20for%20Spatial%20Reuse%20in%20a%20multi-BSS%20(Basic%20Service%20Set)%20scenario/README.md)
+- [ITU-ML5G-PS-002 WALDO (Wireless Artificial intelligence Location DetectiOn) sensing using mmWave communications and ML](2021/ITU-ML5G-PS-002%20WALDO%20(Wireless%20Artificial%20intelligence%20Location%20DetectiOn)%20sensing%20using%20mmWave%20communications%20and%20ML/README.md)
+- [ITU-ML5G-PS-001 Graph Neural Networking Challenge 2021 - Creating a Scalable Network Digital Twin](2021/ITU-ML5G-PS-001%20Graph%20Neural%20Networking%20Challenge%202021%20-%20Creating%20a%20Scalable%20Network%20Digital%20Twin/README.md)
 
 ### 2022
 - [Slide Transition Detection and Title Extraction in Lecture Videos](2022/Slide%20Transition%20Detection%20and%20Title%20Extraction%20in%20Lecture%20Videos/Readme.md)
