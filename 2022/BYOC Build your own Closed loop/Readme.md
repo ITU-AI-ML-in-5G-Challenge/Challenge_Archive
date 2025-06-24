@@ -77,7 +77,6 @@ No data is required.
 
 However, use cases for closed loops are required which are openly published by many SDOs including ITU-T FG AN. These would be compiled and discussed in FG AN before launching the Challenge.
 
-See Fig. 2 and Fig. 3 below. *(Image placeholders for Fig. 2 and Fig. 3)*
 
 **Open questions:**
 
