@@ -68,7 +68,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [Optimal Multi-user scheduling in massive MIMO mobile channels](2024/Optimal%20Multi-user%20scheduling%20in%20massive%20MIMO%20mobile%20channels/Readme.md)
 - [Next-Gen tinyML Smart Weather Station Challenge 2024](2024/Next-Gen%20tinyML%20Smart%20Weather%20Station%20Challenge%202024/Readme.md)
 - [Estimation of Site specific radio propagation loss](2024/Estimation%20of%20Site%20specific%20radio%20propagation%20loss/Readme.md)
-- [ITU WTSA24 Hackhaton - AI Bharat 5G6G Sandbox](2024/ITU%20WTSA24%20Hackathon%20-%20AI%20Bharat%205G6G%20Sandbox/README.md)
+- [ITU WTSA24 Hackhaton - AI Bharat 5G6G Sandbox]([2024/ITU%20WTSA24%20Hackathon%20-%20AI%20Bharat%205G6G%20Sandbox/README.md](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2024/ITU%20WTSA24%20Hackathon%20-%20AI%20Bharat%205G6G%20Sandbox))
 - [Radio Resource Management (RRM) for 6G in-X Subnetworks](2024/Radio%20Resource%20Management%20-%20(RRM)%20for%206G%20in-X%20Subnetworks/README.md)
 
 ### 2025
