@@ -80,36 +80,42 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 
 
 
-### Challenges hosted on Zindi
-- [AIML for 5G-Energy Consumption Modelling by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/AIML%20for%205G-Energy%20Consumption%20Modelling%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
+### Zindi
+#### 2025
 - [Caribbean Voices AI Hackathon by UWI AI Innovation Centre](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Caribbean%20Voices%20AI%20Hackathon%20by%20UWI%20AI%20Innovation%20Centre/Readme.md)
 - [Classification for Landslide Detection](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Classification%20for%20Landslide%20Detection/Readme.md)
-- [Fault Impact Analysis Towards Service-Oriented Network Operation & Maintenance by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Fault%20Impact%20Analysis%20Towards%20Service-Oriented%20Network%20Operation%20&%20Maintenance%20by%20ITU/Readme.md)
 - [GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Agricultural%20Plastic%20Cover%20Mapping%20with%20Satellite%20Imagery%20by%20ITU/Readme.md)
+- [Measuring What Matters Proposal Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Measuring%20What%20Matters%20Proposal%20Challenge%20by%20ITU/Readme.md)
+
+#### 2024
+- ['AIntuition' Retrieval Augmented Generation (RAG) for Public Services and Administration Tasks by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/'AIntuition'%20Retrieval%20Augmented%20Generation%20(RAG)%20for%20Public%20Services%20and%20Administration%20Tasks%20by%20ITU/Readme.md)
 - [GeoAI Amazon Basin Secret Runway Detection Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Amazon%20Basin%20Secret%20Runway%20Detection%20Challenge%20by%20ITU/Readme.md)
-- [GeoAI Challege Location Mention Recognition from Social Media by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challege%20Location%20Mention%20Recognition%20from%20Social%20Media%20by%20ITU/Readme.md)
-- [GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20Estimating%20Soil%20Parameters%20from%20Hyperspectral%20Images%20by%20ITU/Readme.md)
-- [GeoAI Challenge for Air Pollution Susceptibility Mapping by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20for%20Air%20Pollution%20Susceptibility%20Mapping%20by%20ITU/Readme.md)
-- [GeoAI Challenge for Cropland Mapping by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20for%20Cropland%20Mapping%20by%20ITU/Readme.md)
-- [GeoAI Challenge for Landslide Susceptibility Mapping by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20for%20Landslide%20Susceptibility%20Mapping%20by%20ITU/Readme.md)
 - [GeoAI Ground-level NO2 Estimation Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Ground-level%20NO2%20Estimation%20Challenge%20by%20ITU/Readme.md)
 - [INEGI UN-GGIM Human Settlement Detection Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/INEGI%20UN-GGIM%20Human%20Settlement%20Detection%20Challenge%20by%20ITU/Readme.md)
 - [INEGI UN-GGIM Vegetation Mapping Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/INEGI%20UN-GGIM%20Vegetation%20Mapping%20Challenge%20by%20ITU/Readme.md)
 - [ITU Digital Financial Services Blockchain Secure Authentication Application Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/ITU%20Digital%20Financial%20Services%20Blockchain%20Secure%20Authentication%20Application%20Challenge/Readme.md)
-- [Landslide Prevention and Innovation Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Landslide%20Prevention%20and%20Innovation%20Challenge/Readme.md)
-- [Measuring What Matters Proposal Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Measuring%20What%20Matters%20Proposal%20Challenge%20by%20ITU/Readme.md)
-- [Multi-Machine Disruption Prediction Challenge for Fusion Energy by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Multi-Machine%20Disruption%20Prediction%20Challenge%20for%20Fusion%20Energy%20by%20ITU/Readme.md)
+
+#### 2023
+- [AIML for 5G-Energy Consumption Modelling by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/AIML%20for%205G-Energy%20Consumption%20Modelling%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
+- [Fault Impact Analysis Towards Service-Oriented Network Operation & Maintenance by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Fault%20Impact%20Analysis%20Towards%20Service-Oriented%20Network%20Operation%20&%20Maintenance%20by%20ITU/Readme.md)
+- [GeoAI Challege Location Mention Recognition from Social Media by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challege%20Location%20Mention%20Recognition%20from%20Social%20Media%20by%20ITU/Readme.md)
+- [GeoAI Challenge for Air Pollution Susceptibility Mapping by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20for%20Air%20Pollution%20Susceptibility%20Mapping%20by%20ITU/Readme.md)
+- [GeoAI Challenge for Cropland Mapping by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20for%20Cropland%20Mapping%20by%20ITU/Readme.md)
+- [GeoAI Challenge for Landslide Susceptibility Mapping by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20for%20Landslide%20Susceptibility%20Mapping%20by%20ITU/Readme.md)
 - [Network Traffic Scenario Prediction Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Network%20Traffic%20Scenario%20Prediction%20Challenge%20by%20ITU/Readme.md)
 - [Next-Gen WiFi Throughput Prediction Challenge by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Next-Gen%20WiFi%20Throughput%20Prediction%20Challenge%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
 - [QoS Prediction Challenge by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/QoS%20Prediction%20Challenge%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
-- [Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Runmila%20AI%20Institute%20&%20minoHealth%20AI%20Labs%20Tuberculosis%20Classification%20via%20X-Rays%20Challenge/Readme.md)
 - [Smart Energy Supply Scheduling for Green Telecom Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Smart%20Energy%20Supply%20Scheduling%20for%20Green%20Telecom%20Challenge%20by%20ITU/Readme.md)
 - [Spatio-Temporal Beam-Level Traffic Forecasting Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Spatio-Temporal%20Beam-Level%20Traffic%20Forecasting%20Challenge%20by%20ITU/Readme.md)
 - [Specializing Large Language Models for Telecom Networks by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Specializing%20Large%20Language%20Models%20for%20Telecom%20Networks%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
 - [Title Extraction in Lecture Slides Challenge by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Title%20Extraction%20in%20Lecture%20Slides%20Challenge%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
-- [Your Voice, Your Device, Your Language Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Your%20Voice,%20Your%20Device,%20Your%20Language%20Challenge/Readme.md)
-- ['AIntuition' Retrieval Augmented Generation (RAG) for Public Services and Administration Tasks by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/'AIntuition'%20Retrieval%20Augmented%20Generation%20(RAG)%20for%20Public%20Services%20and%20Administration%20Tasks%20by%20ITU/Readme.md)
 
+#### 2022
+- [GeoAI Challenge Estimating Soil Parameters from Hyperspectral Images by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Challenge%20Estimating%20Soil%20Parameters%20from%20Hyperspectral%20Images%20by%20ITU/Readme.md)
+- [Landslide Prevention and Innovation Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Landslide%20Prevention%20and%20Innovation%20Challenge/Readme.md)
+- [Multi-Machine Disruption Prediction Challenge for Fusion Energy by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Multi-Machine%20Disruption%20Prediction%20Challenge%20for%20Fusion%20Energy%20by%20ITU/Readme.md)
+- [Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Runmila%20AI%20Institute%20&%20minoHealth%20AI%20Labs%20Tuberculosis%20Classification%20via%20X-Rays%20Challenge/Readme.md)
+- [Your Voice, Your Device, Your Language Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Your%20Voice,%20Your%20Device,%20Your%20Language%20Challenge/Readme.md)
 
 
 ---
