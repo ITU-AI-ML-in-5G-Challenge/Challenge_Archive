@@ -111,7 +111,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [Citiverse Designing Digital Public Infrastructure of Future Cities[student]](2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[student]/Readme.md)
 - [Citiverse Designing Digital Public Infrastructure of Future Cities[startup]](2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[startup]/Readme.md)
 
-####Competitions hosted on Zindi
+#### Competitions hosted on Zindi
 - [Caribbean Voices AI Hackathon by UWI AI Innovation Centre](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Caribbean%20Voices%20AI%20Hackathon%20by%20UWI%20AI%20Innovation%20Centre/Readme.md)
 - [Classification for Landslide Detection](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Classification%20for%20Landslide%20Detection/Readme.md)
 - [GeoAI Agricultural Plastic Cover Mapping with Satellite Imagery by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/GeoAI%20Agricultural%20Plastic%20Cover%20Mapping%20with%20Satellite%20Imagery%20by%20ITU/Readme.md)
