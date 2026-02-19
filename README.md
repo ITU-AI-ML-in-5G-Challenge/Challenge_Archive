@@ -15,7 +15,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 
 ## 🗂️ Challenge Index
 
-### <u>2021</u>
+### 2021
 - [ITU-ML5G-PS-016 Location estimation using RSSI of wireless LAN](2021/ITU-ML5G-PS-016%20Location%20estimation%20using%20RSSI%20of%20wireless%20LAN/Readme.md)
 - [ITU-ML5G-PS-015 Network failure detection and root cause analysis in 5GC by NFV-based test environment](2021/ITU-ML5G-PS-015%20Network%20failure%20detection%20and%20root%20cause%20analysis%20in%205GC%20by%20NFV-based%20test%20environment/Readme.md)
 - [ITU-ML5G-PS-014 Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis](2021/ITU-ML5G-PS-014%20Build-a-thon(PoC)%20Network%20resource%20allocation%20for%20emergency%20management%20based%20on%20closed%20loop%20analysis/Readme.md)
@@ -31,7 +31,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [ITU-ML5G-PS-002 WALDO (Wireless Artificial intelligence Location DetectiOn) sensing using mmWave communications and ML](2021/ITU-ML5G-PS-002%20WALDO%20(Wireless%20Artificial%20intelligence%20Location%20DetectiOn)%20sensing%20using%20mmWave%20communications%20and%20ML/Readme.md)
 - [ITU-ML5G-PS-001 Graph Neural Networking Challenge 2021 - Creating a Scalable Network Digital Twin](2021/ITU-ML5G-PS-001%20Graph%20Neural%20Networking%20Challenge%202021%20-%20Creating%20a%20Scalable%20Network%20Digital%20Twin/Readme.md)
 
-### <u>2022</u>
+### 2022
 - [Slide Transition Detection and Title Extraction in Lecture Videos](2022/Slide%20Transition%20Detection%20and%20Title%20Extraction%20in%20Lecture%20Videos/Readme.md)
 - [Synthetic Observability Data Generation using GANs](2022/Synthetic%20Observability%20Data%20Generation%20using%20GANs/Readme.md)
 - [Smart Weather Station](2022/Smart%20Weather%20Station/Readme.md)
@@ -55,7 +55,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 
 
 
-### <u>2023</u>
+### 2023
 - [tinyML Hackathon Challenge](2023/tinyML%20Hackathon%20Challenge/Readme.md)
 - [Multi Modal V2V Beam Prediction Challenge 2023](2023/Multi%20Modal%20V2V%20Beam%20Prediction%20Challenge%202023/Readme.md)
 - [3D Location Estimation Using RSSI of Wireless LAN](2023/3D%20Location%20Estimation%20Using%20RSSI%20of%20Wireless%20LAN/Readme.md)
@@ -85,7 +85,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [Specializing Large Language Models for Telecom Networks by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2023/Specializing%20Large%20Language%20Models%20for%20Telecom%20Networks%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
 - [Title Extraction in Lecture Slides Challenge by ITU AIML in 5G Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2023/Title%20Extraction%20in%20Lecture%20Slides%20Challenge%20by%20ITU%20AIML%20in%205G%20Challenge/Readme.md)
 
-### <u>2024</u>
+### 2024
 - [UN Metaverse Think-a-Thon 2024 - Virtual Worlds Revolutionizing Smart Sustainable Cities & Communities](2024/UN%20Metaverse%20Think-a-Thon%202024%20-%20Virtual%20Worlds%20Revolutionizing%20Smart%20Sustainable%20Cities%20&%20Communities/Readme.md)
 - [Radio Resource Management (RRM) for 6G in-X Subnetworks [xtended]](2024/Radio%20Resource%20Management%20(RRM)%20for%206G%20in-X%20Subnetworks%20[xtended]/Readme.md)
 - [Optimal Multi-user scheduling in massive MIMO mobile channels](2024/Optimal%20Multi-user%20scheduling%20in%20massive%20MIMO%20mobile%20channels/Readme.md)
@@ -103,7 +103,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [ITU Digital Financial Services Blockchain Secure Authentication Application Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2024/ITU%20Digital%20Financial%20Services%20Blockchain%20Secure%20Authentication%20Application%20Challenge/Readme.md)
 
 
-### <u>2025</u>
+### 2025
 - [Large Wireless Models (LWM) Challenge](2025/Large%20Wireless%20Models%20(LWM)%20Challenge/Readme.md)
 - [ITU FG AINN Build-a-thon 2025](2025/ITU%20FG%20AINN%20Build-a-thon%202025/Readme.md)
 - [FLIQ Science track - MAX-CUT](2025/FLIQ%20Science%20track%20-%20MAX-CUT/Readme.md)
