@@ -15,6 +15,39 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 
 ## 🗂️ Challenge Index
 
+### <u>2020</u>
+- [AI Techniques for privacy-preserving remote medical diagnosis + spectrum and network resource sharing](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/AI%20Techniques%20for%20privacy-preserving%20remote%20medical%20diagnosis%20%2B%20spectrum%20and%20network%20resource%20sharing%20in%20the%20cloud-based%20system/Readme.md)
+- [Applying knowledge graph and digital twin technologies to smart optical network](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Applying%20knowledge%20graph%20and%20digital%20twin%20technologies%20to%20smart%20optical%20network/Readme.md)
+- [Grand Challenge Finale Day 13_Keynotes + Awards](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Grand%20Challenge%20Finale%20Day%2013_Keynotes%20%2B%20Awards/Readme.md)
+- [Grand Challenge Finale Day 1 - Finalists Presentations](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Grand%20Challenge%20Finale%20Day%201%20-%20Finalists%20Presentations/Readme.md)
+- [Grand Challenge Finale Day 2 - Finalists Presentations](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Grand%20Challenge%20Finale%20Day%202%20-%20Finalists%20Presentations/Readme.md)
+- [Graph neural Networking Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Graph%20neural%20Networking%20Challenge/Readme.md)
+- [How to Bring AI into 5G Radio Access Network](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/How%20to%20Bring%20AI%20into%205G%20Radio%20Access%20Network/Readme.md)
+- [ITU AI_ML in 5G Open House](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/ITU%20AI_ML%20in%205G%20Open%20House/Readme.md)
+- [ITU AI_ML in 5G Open-House #2](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/ITU%20AI_ML%20in%205G%20Open-House%20%232/Readme.md)
+- [ITU-T AI Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/ITU-T%20AI%20Challenge/Readme.md)
+- [ITU_sponsored AI_ML in 5G Challenge Japan Round Online Seminar (TTC-sponsored)](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/ITU_sponsored%20AI_ML%20in%205G%20Challenge%20Japan%20Round%20Online%20Seminar%20(TTC-sponsored)/Readme.md)
+- [Invited Talk - Wireless 2.0_Towards a Smart Radio Environment Empowered by Reconfigurable Intelligent](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Invited%20Talk%20-%20Wireless%202.0_Towards%20a%20Smart%20Radio%20Environment%20Empowered%20by%20Reconfigurable%20Intelligent%20Metasurfaces/Readme.md)
+- [Invited Talk_ “Harnessing Deep Learning for Mobile Service Traffic Decomposition to Support Network Slicing](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Invited%20Talk_%20%E2%80%9CHarnessing%20Deep%20Learning%20for%20Mobile%20Service%20Traffic%20Decomposition%20to%20Support%20Network%20Slicing%E2%80%9D/Readme.md)
+- [Invited Talk_ “Scaling CNN Inference for Extreme Throughput”](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Invited%20Talk_%20%E2%80%9CScaling%20CNN%20Inference%20for%20Extreme%20Throughput%E2%80%9D/Readme.md)
+- [Invited Talk_ “The Road Towards an AI-Native Air Interface for 6G” ](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Invited%20Talk_%20%E2%80%9CThe%20Road%20Towards%20an%20AI-Native%20Air%20Interface%20for%206G%E2%80%9D/Readme.md)
+- [Invited Talk_A Universal Compression Algorithm for Deep Neural Networks](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Invited%20Talk_A%20Universal%20Compression%20Algorithm%20for%20Deep%20Neural%20Networks/Readme.md)
+- [Leveraging AI & Machine Learning to Optimize Today’s 5G Radio Access Network Systems and to Build the Foundation](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Leveraging%20AI%20%26%20Machine%20Learning%20to%20Optimize%20Today%E2%80%99s%205G%20Radio%20Access%20Network%20Systems%20and%20to%20Build%20the%20Foundations%20for%20AI-Native%206G%20Air%20Interface/Readme.md)
+- [ML5G-PHY@NCSU _channel estimation](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/ML5G-PHY@NCSU%20%5Bchannel%20estimation%5D/Readme.md)
+- [ML5G-PHY_beam selection](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/ML5G-PHY%5Bbeam%20selection%5D/Readme.md)
+- [Machine Learning for Wireless LANs + Japan Challenge Introduction](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Machine%20Learning%20for%20Wireless%20LANs%20%2B%20Japan%20Challenge%20Introduction/Readme.md)
+- [Network Topology Optimization ITU AI_ML in 5G](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Network%20Topology%20Optimization%20ITU%20AI_ML%20in%205G/Readme.md)
+- [Toward Effective Network Traffic Analytics of Mobile Apps via Deep Learning](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Toward%20Effective%20Network%20Traffic%20Analytics%20of%20Mobile%20Apps%20via%20Deep%20Learning/Readme.md)
+- [Toward Open, Programmable, and Virtualized 5G Networks](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Toward%20Open%2C%20Programmable%2C%20and%20Virtualized%205G%20Networks/Readme.md)
+- [Traffic recognition and Long-term traffic forecasting based on AI algorithms and metadata for 5G_IMT-2020 ...](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Traffic%20recognition%20and%20Long-term%20traffic%20forecasting%20based%20on%20AI%20algorithms%20and%20metadata%20for%205G_IMT-2020%20networks/Readme.md)
+- [ZTE ITU-ML5G-PS-018](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/ZTE%20ITU-ML5G-PS-018/Readme.md)
+- [Invited Talk - Milvus_An Open Source Vector Similarity Search Engine](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Invited%20Talk%20-%20Milvus_An%20Open%20Source%20Vector%20Similarity%20Search%20Engine/Readme.md)
+- [LYIT_ITU-T AI Challenge_Demonstration of machine learning function orchestrator (MLFO) via reference implementation](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/LYIT_ITU-T%20AI%20Challenge_Demonstration%20of%20machine%20learning%20function%20orchestrator%20(MLFO)%20via%20reference%20implementation/Readme.md)
+- [5G + AI + immersive + assistive services in telecommunications](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/5G%20%2B%20AI%20%2B%20immersive%20%2B%20assistive%20services%20in%20telecommunications/Readme.md)
+- [Radio Link Failure Prediction Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Radio%20Link%20Failure%20Prediction%20Challenge/Readme.md)
+
+
+
 ### <u>2021</u>
 - [ITU-ML5G-PS-016 Location estimation using RSSI of wireless LAN](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2021/ITU-ML5G-PS-016%20Location%20estimation%20using%20RSSI%20of%20wireless%20LAN)
 - [ITU-ML5G-PS-015 Network failure detection and root cause analysis in 5GC by NFV-based test environment](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2021/ITU-ML5G-PS-015%20Network%20failure%20detection%20and%20root%20cause%20analysis%20in%205GC%20by%20NFV-based%20test%20environment)
@@ -105,11 +138,11 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 
 
 ### <u>2025</u>
-- [Large Wireless Models (LWM) Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Large%20Wireless%20Models%20(LWM)%20Challenge)
-- [ITU FG AINN Build-a-thon 2025](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/ITU%20FG%20AINN%20Build-a-thon%202025)
-- [FLIQ Science track - MAX-CUT](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/FLIQ%20Science%20track%20-%20MAX-CUT)
-- [Citiverse Designing Digital Public Infrastructure of Future Cities[student]](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[student])
-- [Citiverse Designing Digital Public Infrastructure of Future Cities[startup]](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[startup])
+- [Large Wireless Models (LWM) Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Large%20Wireless%20Models%20(LWM)%20Challenge/Readme.md)
+- [ITU FG AINN Build-a-thon 2025](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/ITU%20FG%20AINN%20Build-a-thon%202025/Readme.md)
+- [FLIQ Science track - MAX-CUT](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/FLIQ%20Science%20track%20%20MAX-CUT%20Ground%20state%20at%20minimum%20cost/Readme.md)
+- [Citiverse Designing Digital Public Infrastructure of Future Cities_student](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[student]/Readme.md)
+- [Citiverse Designing Digital Public Infrastructure of Future Cities_startup](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[startup]/Readme.md)
 
 #### Competitions hosted on Zindi
 - [Caribbean Voices AI Hackathon by UWI AI Innovation Centre](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Caribbean%20Voices%20AI%20Hackathon%20by%20UWI%20AI%20Innovation%20Centre)
