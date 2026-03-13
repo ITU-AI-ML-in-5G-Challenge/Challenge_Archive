@@ -108,8 +108,8 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [Large Wireless Models (LWM) Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Large%20Wireless%20Models%20(LWM)%20Challenge/Readme.md)
 - [ITU FG AINN Build-a-thon 2025](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/ITU%20FG%20AINN%20Build-a-thon%202025/Readme.md)
 - [FLIQ Science track - MAX-CUT](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/FLIQ%20Science%20track%20%20MAX-CUT%20Ground%20state%20at%20minimum%20cost/Readme.md)
-- [Citiverse Designing Digital Public Infrastructure of Future Cities[student](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[student]/Readme.md)
-- [Citiverse Designing Digital Public Infrastructure of Future Cities_startup] (https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[startup]/Readme.md)
+- [Citiverse Designing Digital Public Infrastructure of Future Cities_student](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[student]/Readme.md)
+- [Citiverse Designing Digital Public Infrastructure of Future Cities_startup](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Citiverse%20Designing%20Digital%20Public%20Infrastructure%20of%20Future%20Cities[startup]/Readme.md)
 
 #### Competitions hosted on Zindi
 - [Caribbean Voices AI Hackathon by UWI AI Innovation Centre](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/Zindi/Caribbean%20Voices%20AI%20Hackathon%20by%20UWI%20AI%20Innovation%20Centre/Readme.md)
