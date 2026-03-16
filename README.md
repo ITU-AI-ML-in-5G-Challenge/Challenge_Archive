@@ -44,12 +44,12 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [Invited Talk - Milvus_An Open Source Vector Similarity Search Engine](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Invited%20Talk%20-%20Milvus_An%20Open%20Source%20Vector%20Similarity%20Search%20Engine/Readme.md)
 - [LYIT_ITU-T AI Challenge_Demonstration of machine learning function orchestrator (MLFO) via reference implementation](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/LYIT_ITU-T%20AI%20Challenge_Demonstration%20of%20machine%20learning%20function%20orchestrator%20(MLFO)%20via%20reference%20implementation/Readme.md)
 - [5G + AI + immersive + assistive services in telecommunications](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/5G%20%2B%20AI%20%2B%20immersive%20%2B%20assistive%20services%20in%20telecommunications/Readme.md)
-- [Radio Link Failure Prediction Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Radio%20Link%20Failure%20Prediction%20Challenge/Readme.md)
+- [Radio Link Failure Prediction Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Radio%20Link%20Failure%20Prediction%20Challenge/readme.md)
 
 
 
 ### <u>2021</u>
-- [ITU-ML5G-PS-016 Location estimation using RSSI of wireless LAN](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2021/ITU-ML5G-PS-016%20Location%20estimation%20using%20RSSI%20of%20wireless%20LAN)
+- [ITU-ML5G-PS-016 Location estimation using RSSI of wireless LAN](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2021/ITU-ML5G-PS-016%20Location%20estimation%20using%20RSSI%20of%20wireless%20LAN/readme.md)
 - [ITU-ML5G-PS-015 Network failure detection and root cause analysis in 5GC by NFV-based test environment](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2021/ITU-ML5G-PS-015%20Network%20failure%20detection%20and%20root%20cause%20analysis%20in%205GC%20by%20NFV-based%20test%20environment)
 - [ITU-ML5G-PS-014 Build-a-thon(PoC) Network resource allocation for emergency management based on closed loop analysis](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2021/ITU-ML5G-PS-014%20Build-a-thon(PoC)%20Network%20resource%20allocation%20for%20emergency%20management%20based%20on%20closed%20loop%20analysis/Readme.md)
 - [ITU-ML5G-PS-012 Radio Link Failure Prediction](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2021/ITU-ML5G-PS-012%20Radio%20Link%20Failure%20Prediction)
