@@ -16,7 +16,7 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 ## 🗂️ Challenge Index
 
 ### <u>2020</u>
-- [AI Techniques for privacy-preserving remote medical diagnosis + spectrum and network resource sharing](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/AI%20Techniques%20for%20privacy-preserving%20remote%20medical%20diagnosis%20%2B%20spectrum%20and%20network%20resource%20sharing%20in%20the%20cloud-based%20system/Readme.md)
+- [AI Techniques for privacy-preserving remote medical diagnosis + spectrum and network resource sharing](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/AI%20Techniques%20for%20privacy-preserving%20remote%20medical%20diagnosis%20+%20spectrum%20and%20network%20resource%20sharing%20in%20the%20cloud-based%20system/README.md)
 - [Applying knowledge graph and digital twin technologies to smart optical network](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Applying%20knowledge%20graph%20and%20digital%20twin%20technologies%20to%20smart%20optical%20network/Readme.md)
 - [Grand Challenge Finale Day 13_Keynotes + Awards](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Grand%20Challenge%20Finale%20Day%2013_Keynotes%20%2B%20Awards/Readme.md)
 - [Grand Challenge Finale Day 1 - Finalists Presentations](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/blob/main/2020/Grand%20Challenge%20Finale%20Day%201%20-%20Finalists%20Presentations/Readme.md)
