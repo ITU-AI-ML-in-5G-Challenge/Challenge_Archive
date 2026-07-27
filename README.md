@@ -145,9 +145,18 @@ Welcome to the **ITU AI Challenges Archive**! This repository contains a curated
 - [Measuring What Matters Proposal Challenge by ITU](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2025/Measuring%20What%20Matters%20Proposal%20Challenge%20by%20ITU)
 
 ### <u>2026</u>
-- [Large Wireless Models (LWM) Challenge — 2026 track](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/Large%20Wireless%20Models%20(LWM)%20Challenge%202026)
-- [AI-assisted Radio Resource Management for 6G (RRM-2026)](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/AI-assisted%20Radio%20Resource%20Management%20for%206G)
-- [Next-Gen tinyML Smart Weather Station Challenge 2026](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/Next-Gen%20tinyML%20Smart%20Weather%20Station%20Challenge%202026)
+- [AI for Safer Roads Innovation Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/AI%20for%20Safer%20Roads%20Innovation%20Challenge)
+- [Reaching New Heights with GeoFM](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/Reaching%20New%20Heights%20with%20GeoFM)
+- [ITU FG-AINN Build-a-thon 4.0](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/ITU%20FG-AINN%20Build-a-thon%204.0)
+- [Synesthesia of Machines (SoM) Challenge 2025](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/Synesthesia%20of%20Machines%20(SoM)%20Challenge%202025)
+
+#### Competitions hosted on ZINDI (2026)
+- [GeoAI Aquaculture Pond Identification Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/GeoAI%20Aquaculture%20Pond%20Identification%20Challenge)
+- [A Step Ahead of Drought: Forecasting Global Water Storage Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/A%20Step%20Ahead%20of%20Drought%20Forecasting%20Global%20Water%20Storage%20Challenge)
+- [Multilingual Health Question Answering in Low-Resource African Languages Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/Multilingual%20Health%20Question%20Answering%20in%20Low-Resource%20African%20Languages%20Challenge)
+- [Telco Troubleshooting Agentic Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/Telco%20Troubleshooting%20Agentic%20Challenge)
+- [The AI Telco Troubleshooting Challenge](https://github.com/ITU-AI-ML-in-5G-Challenge/Challenge_Archive/tree/main/2026/The%20AI%20Telco%20Troubleshooting%20Challenge)
+
 
 ---
 
